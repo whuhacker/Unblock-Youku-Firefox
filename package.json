@@ -1,0 +1,13 @@
+{
+  "name": "unblock-youku",
+  "fullName": "Unblock Youku",
+  "title": "Unblock Youku",
+  "id": "jid1-zV8eHYwTDNUtwQ",
+  "description": "Helps users access their web services while travelling outside mainland China.",
+  "author": "whuhacker",
+  "homepage": "http://www.lovelucy.info",
+  "icon": "data/icon48.png",
+  "icon64": "data/icon64.png",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
