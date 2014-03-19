@@ -1,6 +1,10 @@
 # Unblock Youku Firefox Addon
 
-This project is forked from [Unblock Youku Chrome extension](https://github.com/whuhacker/Unblock-Youku). The Firefox version is under development and not ready for production use yet.
+This addon will help users access their web services while travelling outside mainland China.
+
+You can find this addon on Mozilla AMO at https://addons.mozilla.org/en-US/firefox/addon/unblock-youku/
+
+This project is forked from [Unblock Youku Chrome extension](https://github.com/whuhacker/Unblock-Youku).
 
 ## Disclaimer
 
