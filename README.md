@@ -2,7 +2,7 @@
 
 This addon will help users access their web services while travelling outside mainland China.
 
-You can find this addon on Mozilla AMO at https://addons.mozilla.org/en-US/firefox/addon/unblock-youku/
+You can find this addon on Mozilla AMO at http://bit.ly/unblock-youku-firefox
 
 This project is forked from [Unblock Youku Chrome extension](https://github.com/whuhacker/Unblock-Youku).
 
