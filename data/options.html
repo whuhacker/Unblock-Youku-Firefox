@@ -3,23 +3,51 @@
 <head>
 	<meta charset="utf-8">
 	<title data-l10n-id="options_title"></title>
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/bootstrap-switch.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/bootstrap-3.1.1.min.css">
+	<link rel="stylesheet" href="css/font-awesome-4.0.3.min.css">
+	<link rel="stylesheet" href="css/bootstrap-switch-3.0.0.min.css">
+	<link rel="stylesheet" href="css/options.css">
 	<script src="js/jquery-2.1.0.min.js"></script>
-	<script src="js/bootstrap-switch.min.js"></script>
+	<script src="js/bootstrap-switch-3.0.0.min.js"></script>
 	<script src="options.js"></script>
-	<style type="text/css">
-		body { margin: 10px 20px;}
-		h1 { font-size: 16px;}
-		footer { margin-top: 10px;}
-	</style>
 </head>
 <body>
 	<h1>Unblock Youku</h1>
-	<input type="checkbox" id="switch-change" name="enabled" checked data-on-color="success">
-	<br>
+	<p class="text-center">
+		<input type="checkbox" id="switch-change" name="enabled" checked data-on-color="success">
+	</p>
 	<footer>
-		<small><a href="http://bit.ly/unblock-youku-firefox-feedback" class="text-muted" data-l10n-id="options_feedback" target="_blank"></a></small>
+		<div data-l10n-id="options_share"></div>
+		<div>
+			<span class="icon">
+				<a href="http://bit.ly/unblock-youku-firefox-share2weibo" target="_blank">
+					<i class="fa fa-weibo"></i>
+				</a>
+			</span>
+			<span class="icon">
+				<a href="http://bit.ly/unblock-youku-firefox-share2renren" target="_blank">
+					<i class="fa fa-renren"></i>
+				</a>
+			</span>
+			<span class="icon">
+				<a href="http://bit.ly/unblock-youku-firefox-share2twitter" target="_blank">
+					<i class="fa fa-twitter"></i>
+				</a>
+			</span>
+			<span class="icon">
+				<a href="http://bit.ly/unblock-youku-firefox-share2facebook" target="_blank">
+					<i class="fa fa-facebook-square"></i>
+				</a>
+			</span>
+			<span class="icon">
+				<a href="http://bit.ly/unblock-youku-firefox-share2plus" target="_blank">
+					<i class="fa fa-google-plus-square"></i>
+				</a>
+			</span>
+		</div>
+		<p class="text-right">
+			<small><a href="http://bit.ly/unblock-youku-firefox-feedback" class="text-muted" data-l10n-id="options_feedback" target="_blank"></a></small>
+		</p>
 	</footer>
 </body>
 </html>
