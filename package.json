@@ -8,6 +8,7 @@
   "homepage": "http://www.lovelucy.info",
   "icon": "data/icons/icon48.png",
   "icon64": "data/icons/icon64.png",
+  "permissions": {"private-browsing": true},
   "license": "MPL 2.0",
   "version": "0.2"
 }
