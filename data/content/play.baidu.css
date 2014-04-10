@@ -1,0 +1,7 @@
+div#foreignIP, div.ui-widget-overlay {
+    display: none !important;
+}
+
+div.ui-dialog.ui-widget {
+    display: none !important;
+}
