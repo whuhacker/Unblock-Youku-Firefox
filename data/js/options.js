@@ -10,7 +10,6 @@ addon.port.on('show',function(proxyStatus){
 		var $element = $(data.el);
 		var value = data.value;
 		addon.port.emit('switchChange', value);
-
 		console.log(e, $element, value);
 	});
 });
