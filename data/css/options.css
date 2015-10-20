@@ -1,9 +1,10 @@
 body {
-	margin: 10px 20px;
+    margin: 10px 20px;
 }
 h1 {
-	font-size: 18px;
+    font-size: 18px;
 }
-footer {
-	margin-top: 10px;
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
